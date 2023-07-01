@@ -1,1 +1,19 @@
-# Chandrabose
+💫 About Me:
+
+Hi 👋, I'm Chandrabose
+
+I am a mechanical engineer with a strong passion for machine learning and data analysis.
+
+With a Master's degree in Mechanical Engineering and a solid foundation in mathematics and statistics, I possess a strong technical background that complements my interest in machine learning. Recently completed coursework in machine learning, where I gained hands-on experience in data analysis, feature engineering, and predictive modeling.
+
+🌱 I’m currently learning Advanced Machine learning.
+
+Transitioning from a successful career in mechanical engineering to pursue opportunities in the machine learning field. Skilled in Python programming and eager to leverage my analytical mindset and problem-solving abilities to contribute to data-driven decision-making.
+
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/chandrabose-sivanesan) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
