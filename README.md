@@ -2,13 +2,13 @@
 
 Hi 👋, I'm Chandrabose
 
-I am a mechanical engineer with a strong passion for machine learning and data analysis.
+I am an engineer of 4 yesrs Exp. with a strong passion for machine learning and data analysis.
 
 With a Master's degree in Mechanical Engineering and a solid foundation in mathematics and statistics, I possess a strong technical background that complements my interest in machine learning. Recently completed coursework in machine learning, where I gained hands-on experience in data analysis, feature engineering, and predictive modeling.
 
-🌱 I’m currently learning Advanced Machine learning.
+🌱 I have completed Advanced AI Machine learning.
 
-Transitioning from a successful career in mechanical engineering to pursue opportunities in the machine learning field. Skilled in Python programming and eager to leverage my analytical mindset and problem-solving abilities to contribute to data-driven decision-making.
+Transitioned from a successful career in mechanical engineering to pursue opportunities in the machine learning field. Skilled in Python programming and eager to leverage my analytical mindset and problem-solving abilities to contribute to data-driven decision-making.
 
 💫 Other Interests:
 
